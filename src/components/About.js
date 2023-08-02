@@ -7,7 +7,7 @@ const About = (props) => {
          <div className='intro'>
             <img id="aboutImg" src={profilePic} alt="Amit" />
             <h1 className='introWelcome'>Hello, I'm Amit Aharon, a  Full Stack Developer</h1>
-            <h3 className='introDesc'>I provides clean and efficient code for optimal user experience.</h3>
+            <h3 className='introDesc'>I provide clean and efficient code for optimal user experience.</h3>
          </div>
          <div id='about' className='aboutTextContainer'>
             <div id='aboutHeader'>

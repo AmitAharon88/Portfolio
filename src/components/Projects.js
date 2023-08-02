@@ -41,9 +41,9 @@ const Projects = (props) => {
                   <p className='tool'>CSS</p>
                </div>
                <div className='iconContainer'>
-                  {/* <a href='#'> */}
+                  <a href='https://github.com/AmitAharon88/FinalProject_ProFinder'>
                      <img className='gitHub' src={gitHub} alt='gitHub icon'/>
-                  {/* </a> */}
+                  </a>
                   {/* <a href='#'> */}
                      <img className='web' src={web} alt='website icon'/>
                   {/* </a> */}
