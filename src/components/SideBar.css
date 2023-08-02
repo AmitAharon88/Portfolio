@@ -1,0 +1,45 @@
+#sideNav a {
+    position: fixed;
+    display: flex;
+    justify-content: flex-start;
+    left: -50px;
+    transition: 0.3s;
+    padding: 5px; 
+    width: 60px; 
+    text-decoration: none;
+    font-size: 20px; /* Increase font size */
+    color: white; /* White text color */
+    border-radius: 0 5px 5px 0; /* Rounded corners on the top right and bottom right side */
+}
+  
+#sideNav a:hover {
+    left: 0; /* On mouse-over, make the elements appear as they should */
+
+}
+
+#sideLinkedin, #sideGitHub, #sideDownload {
+    background-color: white;
+    height: 7vh;
+}
+
+#sideLinkedin {
+    bottom: 205px;
+    right: 10px;
+}
+
+#sideGitHub {
+    bottom: 135px;
+}
+
+#sideDownload {
+  bottom: 65px;
+}
+
+.gitHub2{
+    height: 6.5vh;
+}
+
+.download{
+  height: 7vh;
+}
+  

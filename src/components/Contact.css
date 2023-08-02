@@ -1,0 +1,28 @@
+#contactSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30vh;
+    margin-bottom: 10vh;
+}
+
+.contactHeader {
+    font-size: 6.5em;
+}
+
+#form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input {
+    width: 60vw;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#button {
+    font-size: 20px;
+    border-radius: 5px;
+}
