@@ -2,12 +2,11 @@
     position: fixed;
     display: flex;
     justify-content: flex-start;
-    left: -50px;
+    left: -4.5vw;
     transition: 0.3s;
-    padding: 5px; 
-    width: 60px; 
+    padding: .25em; 
+    width: 5vw;
     text-decoration: none;
-    font-size: 20px; /* Increase font size */
     color: white; /* White text color */
     border-radius: 0 5px 5px 0; /* Rounded corners on the top right and bottom right side */
 }
@@ -23,16 +22,15 @@
 }
 
 #sideLinkedin {
-    bottom: 205px;
-    right: 10px;
+    bottom: 30vh;
 }
 
 #sideGitHub {
-    bottom: 135px;
+    bottom: 20vh;
 }
 
 #sideDownload {
-  bottom: 65px;
+  bottom: 10vh;
 }
 
 .gitHub2{
