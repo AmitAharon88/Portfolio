@@ -26,11 +26,11 @@
 }
 
 .projectName {
-    font-size: 35px;
+    font-size: 2em;
 }
 
 .projectText{
-    font-size: 20px;
+    font-size: 1.3em;
 }
 
 .tool {
@@ -40,7 +40,7 @@
     margin: 5px;
     background-color: #E0E0E0;
     color: #010825;
-    font-size: 18px;
+    font-size: 1.1em;
 }
 
 .iconContainer {

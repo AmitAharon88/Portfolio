@@ -9,7 +9,7 @@ const NavBar = () => {
                     <img id="navImg" src={profilePic} alt="Amit" />
                 </li>
                 <li>
-                    <p className='navName'>Amit Aharon</p>
+                    <p className='navName'>&#123; Amit Aharon &#125;</p>
                 </li>
             </ul>
             <ul className='secondUl'>
