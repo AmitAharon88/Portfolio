@@ -4,7 +4,7 @@ import profilePic from '../images/AmitPic.png'
 const About = (props) => {
     return (
       <div id='aboutSection'>
-         <div className='intro'>
+         <div id='intro'>
             <img id="aboutImg" src={profilePic} alt="Amit" />
             <h1 id='hello'>Hello, I'm Amit Aharon</h1>
             <h2 id='fullStackDev'>&#123; Full Stack Developer &#125;</h2>

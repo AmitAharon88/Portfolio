@@ -19,7 +19,7 @@
     width: 75vw;
     height: 380px;
     backdrop-filter: blur(10px);
-    box-shadow: 20px 20px 40px 40px rgba(0,0,0,0.2);
+    box-shadow: 5px 5px 25px 15px rgba(249, 247, 247, 0.2);
 }
 
 .input {
