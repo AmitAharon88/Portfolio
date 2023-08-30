@@ -22,13 +22,13 @@ nav {
 }
 
 .navName {
-    font-size: 22px;
+    font-size: 25px;
     font-weight: bold
 }
 
 .navLinks {
     text-decoration: none;
-    font-size: 17px;
+    font-size: 22px;
     font-weight: bold;
     color: white;
 }

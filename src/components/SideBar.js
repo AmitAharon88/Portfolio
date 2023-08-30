@@ -10,7 +10,7 @@ const SideBar = () => {
         <a id='sideLinkedin' href='http://www.linkedin.com/in/amit-aharon'>
             <img className='linkedin' src={linkedin} alt='linkedin icon'/>
         </a>
-        <a id='sideGitHub' href='https://github.com/AmitAharon88/Hackathon_1'>
+        <a id='sideGitHub' href='https://github.com/AmitAharon88'>
             <img className='gitHub2' src={gitHub2} alt='gitHub icon'/>
         </a>
         <a id='sideDownload'href={AmitAharonCV} download>

@@ -18,7 +18,7 @@ const About = (props) => {
                <h1 className='quote'> "As a developer I get excited by the process of creation and problem solving with smart code solutions."</h1>
                <div className='description'>
                   <p>Building front and back ends of websites allows me to create dynamic, interactive, and user-friendly web applications that can deliver a seamless experience to all. Using my abilities as a developer, I enjoy crafting feature-rich applications that offer real-time updates, smooth interactions, and responsive designs.</p>
-                  <p>I am open to job opportunities where i can learn and grow my skills.</p>
+                  <p>I am open to job opportunities where I can learn and grow my skills.</p>
                </div>
                <div>
                   <div className='skills'>
