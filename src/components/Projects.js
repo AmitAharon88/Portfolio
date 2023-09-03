@@ -24,7 +24,7 @@ const Projects = (props) => {
                      <img className='gitHub' src={gitHub} alt='gitHub icon'/>
                   </a>
                   {/* <a href='#'> */}
-                     <img className='web' src={web} alt='website icon'/>
+                     {/* <img className='web' src={web} alt='website icon'/> */}
                   {/* </a> */}
                </div>
             </div>
@@ -45,9 +45,9 @@ const Projects = (props) => {
                   <a href='https://github.com/AmitAharon88/FinalProject_ProFinder'>
                      <img className='gitHub' src={gitHub} alt='gitHub icon'/>
                   </a>
-                  {/* <a href='#'> */}
+                  <a href='https://profinder.onrender.com/'>
                      <img className='web' src={web} alt='website icon'/>
-                  {/* </a> */}
+                  </a>
                </div>
             </div>
           </div>
